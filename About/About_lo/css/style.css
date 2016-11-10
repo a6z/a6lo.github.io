@@ -33,7 +33,7 @@ box-sizing: border-box;
 float: left;
 }
 #A6Z {
--webkit-filter:grayscale(2);
+-webkit-filter:brightness(2);
 width: 66%;
 height: 66%;
 }
